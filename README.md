@@ -34,3 +34,12 @@ The object importance annotation results of TOI are located in the "annotation" 
 
 ### To Do: <br>
 To use these annotations, you need to download the Raw Data from the [KITTI](https://www.cvlibs.net/datasets/kitti/raw_data.php). The files that need to be downloaded are [synced+rectified data].
+
+
+## <a name="CitingTOI"></a>Citing TOI
+
+If you find our work helpful for your research, please consider citing the following BibTeX entry.
+
+```BibTeX
+
+```
