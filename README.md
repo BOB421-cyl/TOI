@@ -41,5 +41,13 @@ To use these annotations, you need to download the Raw Data from the [KITTI](htt
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
 ```BibTeX
-
+@misc{nan2024onroadobjectimportanceestimation,
+      title={On-Road Object Importance Estimation: A New Dataset and A Model with Multi-Fold Top-Down Guidance}, 
+      author={Zhixiong Nan and Yilong Chen and Tianfei Zhou and Tao Xiang},
+      year={2024},
+      eprint={2411.17152},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2411.17152}, 
+}
 ```
