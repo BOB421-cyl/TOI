@@ -47,7 +47,6 @@ If you find our work helpful for your research, please consider citing the follo
       year={2024},
       eprint={2411.17152},
       archivePrefix={arXiv},
-      primaryClass={cs.RO},
       url={https://arxiv.org/abs/2411.17152}, 
 }
 ```
