@@ -44,9 +44,7 @@ If you find our work helpful for your research, please consider citing the follo
 @misc{nan2024toi,
       title={On-Road Object Importance Estimation: A New Dataset and A Model with Multi-Fold Top-Down Guidance}, 
       author={Zhixiong Nan and Yilong Chen and Tianfei Zhou and Tao Xiang},
-      year={2024},
-      eprint={2411.17152},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2411.17152}, 
+      booktitle={Proceedings of the Neural Information Processing Systems},
+      year={2024}
 }
 ```
